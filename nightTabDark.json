@@ -1,1 +1,4636 @@
-{"nightTab":true,"version":"7.3.0","state":{"layout":{"area":{"header":{"width":50,"justify":"left"},"bookmark":{"width":78,"justify":"left"}},"alignment":"center-left","order":"bookmark-header","direction":"horizontal","size":100,"width":98,"padding":55,"gutter":50,"breakpoint":"lg","scrollbar":"none","title":"Wellashi's Homepage","favicon":"","overscroll":false},"header":{"item":{"justify":"right"},"greeting":{"show":true,"type":"good","custom":"","name":"Enku","size":107,"newLine":false},"transitional":{"show":false,"type":"time-and-date","size":100,"newLine":false},"clock":{"hour":{"show":true,"display":"number"},"minute":{"show":true,"display":"number"},"second":{"show":false,"display":"number"},"separator":{"show":true,"text":""},"meridiem":{"show":true},"hour24":{"show":false},"size":126,"newLine":true},"date":{"day":{"show":true,"display":"word","weekStart":"monday","length":"short"},"date":{"show":true,"display":"number","ordinal":true},"month":{"show":true,"display":"word","length":"short","ordinal":false},"year":{"show":false,"display":"number"},"separator":{"show":true,"text":"*"},"format":"month-date","size":100,"newLine":false},"search":{"show":true,"width":{"by":"custom","size":100},"engine":{"selected":"google","custom":{"name":"","url":"","queryName":""}},"text":{"justify":"right"},"size":71,"newLine":false,"newTab":false,"string":""},"order":["greeting","clock","date","search"],"edit":false},"bookmark":{"size":50,"url":{"show":false},"line":{"show":false},"shadow":{"show":false},"hoverScale":{"show":false},"orientation":"top","style":"block","newTab":false,"edit":false,"add":false,"show":true,"item":{}},"group":{"area":{"justify":"left"},"order":"header-body","name":{"size":75},"toolbar":{"size":50},"edit":false,"add":false},"toolbar":{"location":"corner","position":"top-right","size":50,"accent":{"show":true},"add":{"show":true},"edit":{"show":true},"newLine":false},"theme":{"color":{"range":{"primary":{"h":243,"s":0}},"contrast":{"start":12,"end":30},"shades":14},"accent":{"hsl":{"h":267,"s":100,"l":80},"rgb":{"r":199,"g":153,"b":255},"random":{"active":false,"style":"any"},"cycle":{"active":false,"speed":300,"step":10}},"font":{"display":{"name":"Shadows Into Light","weight":100,"style":"normal"},"ui":{"name":"Poppins","weight":400,"style":"normal"}},"background":{"type":"image","color":{"hsl":{"h":221,"s":47,"l":17},"rgb":{"r":23,"g":36,"b":64}},"gradient":{"angle":160,"start":{"hsl":{"h":148,"s":95,"l":60},"rgb":{"r":56,"g":250,"b":147}},"end":{"hsl":{"h":0,"s":0,"l":41},"rgb":{"r":105,"g":105,"b":105}}},"image":{"url":"https://www.pexels.com/photo/landscape-photography-of-lake-1718345/","blur":0,"grayscale":0,"scale":100,"accent":0,"opacity":100,"vignette":{"opacity":0,"start":90,"end":70}},"video":{"url":"","blur":0,"grayscale":0,"scale":100,"accent":0,"opacity":100,"vignette":{"opacity":0,"start":90,"end":70}}},"opacity":{"general":25},"layout":{"color":{"by":"theme","blur":0,"opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"divider":{"size":0}},"header":{"color":{"by":"theme","opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"search":{"opacity":25}},"bookmark":{"color":{"by":"theme","opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"item":{"border":1,"opacity":25}},"group":{"toolbar":{"opacity":25}},"toolbar":{"opacity":25},"style":"dark","radius":242,"shadow":0,"shade":{"opacity":3,"blur":0},"custom":{"all":[{"name":"Enku's","color":{"range":{"primary":{"h":243,"s":26,"l":17}},"contrast":{"start":15,"end":50}},"accent":{"hsl":{"h":267,"s":100,"l":80},"rgb":{"r":199,"g":153,"b":255}},"font":{"display":{"name":"Shadows Into Light","weight":100,"style":"normal"},"ui":{"name":"Poppins","weight":400,"style":"normal"}},"background":{"type":"image","color":{"hsl":{"h":221,"s":47,"l":17},"rgb":{"r":23,"g":36,"b":64}},"gradient":{"angle":160,"start":{"hsl":{"h":206,"s":16,"l":40},"rgb":{"r":86,"g":104,"b":118}},"end":{"hsl":{"h":219,"s":28,"l":12},"rgb":{"r":22,"g":28,"b":39}}},"image":{"url":"https://github.com/zombieFox/nightTabAssets/blob/main/images/1628356492462.jpeg?raw=true","blur":9,"grayscale":0,"scale":100,"accent":0,"opacity":5,"vignette":{"opacity":0,"start":90,"end":70}},"video":{"url":"","blur":0,"grayscale":0,"scale":100,"accent":0,"opacity":100,"vignette":{"opacity":0,"start":90,"end":70}}},"radius":242,"shadow":0,"style":"dark","shade":{"opacity":3,"blur":0},"opacity":{"general":34},"layout":{"color":{"by":"theme","blur":0,"opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"divider":{"size":0}},"header":{"color":{"by":"theme","opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"search":{"opacity":34}},"bookmark":{"color":{"by":"theme","opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"item":{"border":1,"opacity":34}},"group":{"toolbar":{"opacity":34}},"toolbar":{"opacity":34}},{"name":"Enku's","color":{"range":{"primary":{"h":243,"s":26,"l":17}},"contrast":{"start":15,"end":50}},"accent":{"hsl":{"h":267,"s":100,"l":80},"rgb":{"r":199,"g":153,"b":255}},"font":{"display":{"name":"Shadows Into Light","weight":100,"style":"normal"},"ui":{"name":"Poppins","weight":400,"style":"normal"}},"background":{"type":"image","color":{"hsl":{"h":221,"s":47,"l":17},"rgb":{"r":23,"g":36,"b":64}},"gradient":{"angle":160,"start":{"hsl":{"h":206,"s":16,"l":40},"rgb":{"r":86,"g":104,"b":118}},"end":{"hsl":{"h":219,"s":28,"l":12},"rgb":{"r":22,"g":28,"b":39}}},"image":{"url":"https://github.com/zombieFox/nightTabAssets/blob/main/images/1628356492462.jpeg?raw=true","blur":9,"grayscale":0,"scale":100,"accent":0,"opacity":5,"vignette":{"opacity":0,"start":90,"end":70}},"video":{"url":"","blur":0,"grayscale":0,"scale":100,"accent":0,"opacity":100,"vignette":{"opacity":0,"start":90,"end":70}}},"radius":242,"shadow":0,"style":"dark","shade":{"opacity":3,"blur":0},"opacity":{"general":34},"layout":{"color":{"by":"theme","blur":0,"opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"divider":{"size":0}},"header":{"color":{"by":"theme","opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"search":{"opacity":34}},"bookmark":{"color":{"by":"theme","opacity":10,"hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"item":{"border":1,"opacity":34}},"group":{"toolbar":{"opacity":34}},"toolbar":{"opacity":34}}],"edit":false}},"search":false,"modal":false,"menu":true},"bookmark":[{"name":{"text":"Tools","show":true},"collapse":false,"toolbar":{"openAll":{"show":false},"collapse":{"show":true}},"items":[{"url":"https://www.figma.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":-20,"translate":{"x":-6,"y":0},"gutter":39,"name":{"show":true,"text":"Figma","size":26},"visual":{"show":true,"type":"icon","size":122,"letter":{"text":"AZ"},"icon":{"name":"figma","prefix":"fab","label":"Figma"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":132,"s":69,"l":73},"rgb":{"r":139,"g":234,"b":158}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":100},"rgb":{"r":255,"g":255,"b":255},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":true},"timestamp":1626297999213},{"url":"https://studio.polotno.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":-90,"translate":{"x":21,"y":2},"gutter":25,"name":{"show":true,"text":"Polotno","size":23},"visual":{"show":true,"type":"icon","size":20,"letter":{"text":"GM"},"icon":{"name":"layer-group","prefix":"fas","label":"Layer Group"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":299,"s":100,"l":80},"rgb":{"r":253,"g":153,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1626298011293},{"url":"https://www.canva.com/","display":{"alignment":"top-left","direction":"horizontal","order":"visual-name","rotate":0,"translate":{"x":11,"y":21},"gutter":55,"name":{"show":true,"text":"Canva","size":40},"visual":{"show":true,"type":"letter","size":55,"letter":{"text":"C"},"icon":{"name":"google-drive","prefix":"fab","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":225,"s":100,"l":50},"rgb":{"r":0,"g":64,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":true,"tall":false},"timestamp":1626298028996},{"url":"https://penpot.app/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":-62,"translate":{"x":-6,"y":-4},"gutter":51,"name":{"show":true,"text":"Penpot","size":19},"visual":{"show":true,"type":"icon","size":36,"letter":{"text":"AS"},"icon":{"name":"pencil-alt","prefix":"fas","label":"Alternate Pencil"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":81,"s":100,"l":68},"rgb":{"r":198,"g":255,"b":92}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1626297988913},{"url":"https://webcode.tools/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Web code tools","size":33},"visual":{"show":true,"type":"icon","size":52,"letter":{"text":"R"},"icon":{"name":"toolbox","prefix":"fas","label":"Toolbox"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":195,"s":100,"l":85},"rgb":{"r":179,"g":236,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":true,"tall":true},"timestamp":1626298017175},{"url":"https://typescale.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Type-scale","size":15},"visual":{"show":true,"type":"icon","size":52,"letter":{"text":"N"},"icon":{"name":"i-cursor","prefix":"fas","label":"I Beam Cursor"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":180,"s":100,"l":50},"rgb":{"r":0,"g":255,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1626298022303},{"url":"https://coolors.co/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Coolors","size":26},"visual":{"show":true,"type":"icon","size":61,"letter":{"text":""},"icon":{"name":"palette","prefix":"fas","label":"Palette"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":113,"s":100,"l":65},"rgb":{"r":97,"g":255,"b":77}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675747208625},{"url":"https://picular.co/","display":{"alignment":"center-left","direction":"horizontal","order":"name-visual","rotate":0,"translate":{"x":0,"y":0},"gutter":0,"name":{"show":true,"text":"Picular","size":16},"visual":{"show":true,"type":"icon","size":77,"letter":{"text":""},"icon":{"name":"eye-dropper","prefix":"fas","label":"Eye Dropper"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":55,"s":100,"l":76},"rgb":{"r":255,"g":245,"b":133}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675747643701},{"url":"https://pixlr.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":-47,"translate":{"x":0,"y":0},"gutter":0,"name":{"show":true,"text":"Pixlr","size":50},"visual":{"show":true,"type":"icon","size":33,"letter":{"text":"ph"},"icon":{"name":"file-image","prefix":"fas","label":"Image File"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":334,"s":100,"l":50},"rgb":{"r":255,"g":0,"b":111}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675747977311},{"url":"https://www.photopea.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":90,"translate":{"x":-8,"y":0},"gutter":25,"name":{"show":true,"text":"Photopea","size":19},"visual":{"show":true,"type":"icon","size":52,"letter":{"text":""},"icon":{"name":"american-sign-language-interpreting","prefix":"fas","label":"American Sign Language Interpreting"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":21,"s":100,"l":78},"rgb":{"r":255,"g":182,"b":143}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675748122799},{"url":"https://www.youtube.com/","display":{"alignment":"center-center","direction":"vertical","order":"name-visual","rotate":0,"translate":{"x":0,"y":13},"gutter":25,"name":{"show":true,"text":"Youtube","size":23},"visual":{"show":true,"type":"icon","size":79,"letter":{"text":"TBAL"},"icon":{"name":"youtube","prefix":"fab","label":"YouTube"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":100,"l":57},"rgb":{"r":255,"g":36,"b":36}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675753288282}]},{"name":{"text":"Design","show":true},"collapse":false,"toolbar":{"size":100,"openAll":{"show":false},"collapse":{"show":true}},"items":[{"url":"https://iconmonstr.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Iconsmonstr","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":""},"icon":{"name":"icons","prefix":"fas","label":"Icons"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":50,"s":100,"l":38},"rgb":{"r":194,"g":162,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675749085862},{"url":"https://www.svgrepo.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":0,"name":{"show":true,"text":"SvgRepo","size":11},"visual":{"show":true,"type":"letter","size":77,"letter":{"text":"SVG"},"icon":{"name":"","prefix":"","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":38,"s":100,"l":46},"rgb":{"r":235,"g":149,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675749223815},{"url":"https://blush.design/","display":{"alignment":"center-center","direction":"vertical","order":"name-visual","rotate":-42,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Blush.Design","size":16},"visual":{"show":true,"type":"icon","size":29,"letter":{"text":""},"icon":{"name":"bezier-curve","prefix":"fas","label":"Bezier Curve"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":157,"s":31,"l":60},"rgb":{"r":121,"g":185,"b":160}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675749415069},{"url":"https://undraw.co/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":55,"translate":{"x":0,"y":-8},"gutter":25,"name":{"show":true,"text":"Undraw","size":30},"visual":{"show":true,"type":"icon","size":13,"letter":{"text":""},"icon":{"name":"user","prefix":"fas","label":"User"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":287,"s":100,"l":50},"rgb":{"r":200,"g":0,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675749521682},{"url":"https://www.toools.design/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":22,"translate":{"x":-27,"y":32},"gutter":25,"name":{"show":true,"text":"","size":7},"visual":{"show":true,"type":"letter","size":72,"letter":{"text":"Toooools"},"icon":{"name":"","prefix":"","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":0,"l":53},"rgb":{"r":135,"g":135,"b":135}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":true,"type":"image","opacity":61,"image":{"url":"https://images.unsplash.com/photo-1632408542856-8858f67e63f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"},"video":{"url":""}},"border":1,"shape":{"wide":true,"tall":true},"timestamp":1675751291507},{"url":"https://pixabay.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":22,"translate":{"x":4,"y":-6},"gutter":25,"name":{"show":true,"text":"Pixabay","size":27},"visual":{"show":true,"type":"letter","size":54,"letter":{"text":"PX"},"icon":{"name":"","prefix":"","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":76,"s":100,"l":55},"rgb":{"r":194,"g":255,"b":26}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675750014670},{"url":"https://unsplash.com/","display":{"alignment":"bottom-right","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Unsplash","size":13},"visual":{"show":true,"type":"icon","size":76,"letter":{"text":""},"icon":{"name":"image","prefix":"fas","label":"Image"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":299,"s":81,"l":46},"rgb":{"r":209,"g":22,"b":212}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675749925824},{"url":"https://useanimations.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Useanimations","size":13},"visual":{"show":true,"type":"icon","size":51,"letter":{"text":""},"icon":{"name":"heartbeat","prefix":"fas","label":"Heartbeat"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":100,"l":68},"rgb":{"r":255,"g":92,"b":92}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":true,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675750150594},{"url":"https://www.checklist.design/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Design Checklist","size":23},"visual":{"show":true,"type":"icon","size":54,"letter":{"text":""},"icon":{"name":"check","prefix":"fas","label":"Check"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":100,"l":50},"rgb":{"r":255,"g":0,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":true,"tall":false},"timestamp":1675749023449},{"url":"https://www.scribbbles.design/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":56,"translate":{"x":0,"y":-13},"gutter":63,"name":{"show":true,"text":"scribbbles","size":11},"visual":{"show":true,"type":"icon","size":58,"letter":{"text":"Scribbbles"},"icon":{"name":"scribd","prefix":"fab","label":"Scribd"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":192,"s":100,"l":35},"rgb":{"r":0,"g":143,"b":179}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675749681386},{"url":"https://www.drawkit.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Drawkit","size":20},"visual":{"show":true,"type":"icon","size":47,"letter":{"text":"D"},"icon":{"name":"drafting-compass","prefix":"fas","label":"Drafting Compass"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":170,"s":83,"l":62},"rgb":{"r":78,"g":239,"b":212}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675750326132},{"url":"https://avamake.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":-8},"gutter":25,"name":{"show":true,"text":"Avamake","size":13},"visual":{"show":true,"type":"icon","size":81,"letter":{"text":"Avaaaaaatars"},"icon":{"name":"user-astronaut","prefix":"fas","label":"User Astronaut"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":93,"s":81,"l":44},"rgb":{"r":103,"g":203,"b":21}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675751701506}]},{"name":{"text":"AI fun","show":true},"collapse":false,"toolbar":{"openAll":{"show":false},"collapse":{"show":true}},"items":[{"url":"https://chat.openai.com/chat","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":-15,"y":-13},"gutter":25,"name":{"show":true,"text":"ChatGPT","size":18},"visual":{"show":true,"type":"icon","size":79,"letter":{"text":""},"icon":{"name":"robot","prefix":"fas","label":"Robot"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":95,"l":84},"rgb":{"r":253,"g":175,"b":175}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1676085807051},{"url":"https://www.futuretools.io/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Future-tools","size":18},"visual":{"show":true,"type":"icon","size":55,"letter":{"text":""},"icon":{"name":"spa","prefix":"fas","label":"Spa"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":135,"s":59,"l":57},"rgb":{"r":81,"g":210,"b":113}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":true,"tall":false},"timestamp":1676092710270},{"url":"https://instantart.io/","display":{"alignment":"center-right","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Instant art","size":15},"visual":{"show":true,"type":"icon","size":59,"letter":{"text":"DEV"},"icon":{"name":"artstation","prefix":"fab","label":"Artstation"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":325,"s":58,"l":66},"rgb":{"r":219,"g":118,"b":177}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1626298034209},{"url":"https://playgroundai.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":-14,"translate":{"x":-27,"y":0},"gutter":25,"name":{"show":true,"text":"Playground","size":9},"visual":{"show":true,"type":"icon","size":73,"letter":{"text":""},"icon":{"name":"images","prefix":"fas","label":"Images"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":55,"s":100,"l":85},"rgb":{"r":255,"g":249,"b":179}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1676093933855},{"url":"https://dreamlike.art/","display":{"alignment":"center-center","direction":"vertical","order":"name-visual","rotate":0,"translate":{"x":0,"y":-13},"gutter":25,"name":{"show":true,"text":"Dreamlike","size":45},"visual":{"show":true,"type":"icon","size":30,"letter":{"text":""},"icon":{"name":"cloud","prefix":"fas","label":"Cloud"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":200,"s":100,"l":74},"rgb":{"r":122,"g":211,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":true,"tall":false},"timestamp":1676085948509}]},{"name":{"text":"Entertainment","show":true},"collapse":false,"toolbar":{"size":100,"openAll":{"show":false},"collapse":{"show":true}},"items":[{"url":"https://flixhq.to/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"","size":7},"visual":{"show":true,"type":"letter","size":25,"letter":{"text":"Flixhq.to"},"icon":{"name":"","prefix":"","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675752164817},{"url":"https://flixhq.ru/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"","size":7},"visual":{"show":true,"type":"letter","size":25,"letter":{"text":"Flixhq.ru"},"icon":{"name":"","prefix":"","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675752230446},{"url":"https://ww4.fmovies.co/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"","size":7},"visual":{"show":true,"type":"letter","size":25,"letter":{"text":"Fmovies"},"icon":{"name":"","prefix":"","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675752327953},{"url":"https://1337x.to/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"","size":7},"visual":{"show":true,"type":"letter","size":25,"letter":{"text":"1337x"},"icon":{"name":"","prefix":"","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675752436308},{"url":"https://www.tpbproxypirate.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"","size":7},"visual":{"show":true,"type":"letter","size":25,"letter":{"text":"Piratebay"},"icon":{"name":"","prefix":"","label":""},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675752550064}]},{"name":{"text":"Learn","show":true},"collapse":false,"toolbar":{"size":100,"openAll":{"show":false},"collapse":{"show":true}},"items":[{"url":"https://principles.design/","display":{"alignment":"center-left","direction":"horizontal","order":"visual-name","rotate":0,"translate":{"x":-31,"y":0},"gutter":25,"name":{"show":true,"text":"Design Principles","size":12},"visual":{"show":true,"type":"icon","size":134,"letter":{"text":""},"icon":{"name":"tape","prefix":"fas","label":"Tape"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":52,"s":100,"l":65},"rgb":{"r":255,"g":231,"b":77}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":true,"tall":false},"timestamp":1675749822309},{"url":"https://www.pdfdrive.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":15,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"PDF Drive","size":18},"visual":{"show":true,"type":"icon","size":54,"letter":{"text":""},"icon":{"name":"file-pdf","prefix":"fas","label":"PDF File"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":100,"l":58},"rgb":{"r":255,"g":41,"b":41}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1676092585549},{"url":"https://www.coursedl.org/","display":{"alignment":"center-right","direction":"horizontal","order":"visual-name","rotate":0,"translate":{"x":4,"y":0},"gutter":25,"name":{"show":true,"text":"OpenDirectory","size":20},"visual":{"show":true,"type":"icon","size":76,"letter":{"text":""},"icon":{"name":"studiovinari","prefix":"fab","label":"Studio Vinari"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":27,"s":38,"l":53},"rgb":{"r":181,"g":131,"b":90}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":100},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":true,"tall":false},"timestamp":1678333544302},{"url":"https://www.udemy.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":-91,"translate":{"x":0,"y":0},"gutter":0,"name":{"show":true,"text":"Udemy","size":26},"visual":{"show":true,"type":"icon","size":83,"letter":{"text":""},"icon":{"name":"user-graduate","prefix":"fas","label":"User Graduate"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":228,"s":100,"l":82},"rgb":{"r":163,"g":182,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1676093040956},{"url":"https://www.skillshare.com/en/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":28,"translate":{"x":0,"y":-8},"gutter":25,"name":{"show":true,"text":"Skillshare","size":19},"visual":{"show":true,"type":"icon","size":41,"letter":{"text":""},"icon":{"name":"chalkboard-teacher","prefix":"fas","label":"Chalkboard Teacher"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":149,"s":100,"l":67},"rgb":{"r":87,"g":255,"b":168}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1676093233920}]},{"name":{"text":"Social","show":true},"collapse":false,"toolbar":{"size":100,"openAll":{"show":false},"collapse":{"show":true}},"items":[{"url":"https://web.telegram.org/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Telegram","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":""},"icon":{"name":"telegram","prefix":"fab","label":"Telegram"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":203,"s":100,"l":65},"rgb":{"r":77,"g":187,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675754054528},{"url":"https://github.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Github","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":"GIT"},"icon":{"name":"github","prefix":"fab","label":"GitHub"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":0,"l":100},"rgb":{"r":255,"g":255,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1626298038470},{"url":"https://www.quora.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Quora","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":""},"icon":{"name":"quora","prefix":"fab","label":"Quora"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":100,"l":50},"rgb":{"r":255,"g":0,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675753697443},{"url":"https://stackoverflow.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Stackoverflow","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":""},"icon":{"name":"stack-overflow","prefix":"fab","label":"Stack Overflow"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":41,"s":100,"l":50},"rgb":{"r":255,"g":174,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675753835533},{"url":"https://www.reddit.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Reddit","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":""},"icon":{"name":"reddit-alien","prefix":"fab","label":"reddit Alien"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":24,"s":100,"l":50},"rgb":{"r":255,"g":102,"b":0}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675753650122},{"url":"https://www.pinterest.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Pinterest","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":""},"icon":{"name":"pinterest","prefix":"fab","label":"Pinterest"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":0,"s":100,"l":53},"rgb":{"r":255,"g":15,"b":15}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675753762636},{"url":"facebook.com","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Facebook","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":""},"icon":{"name":"facebook","prefix":"fab","label":"Facebook"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":209,"s":100,"l":51},"rgb":{"r":5,"g":134,"b":255}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675753886034},{"url":"https://web.whatsapp.com/","display":{"alignment":"center-center","direction":"vertical","order":"visual-name","rotate":0,"translate":{"x":0,"y":0},"gutter":25,"name":{"show":true,"text":"Whatsapp","size":7},"visual":{"show":true,"type":"icon","size":25,"letter":{"text":""},"icon":{"name":"whatsapp","prefix":"fab","label":"What's App"},"image":{"url":""},"shadow":{"size":0}}},"accent":{"by":"custom","hsl":{"h":143,"s":100,"l":50},"rgb":{"r":0,"g":255,"b":98}},"color":{"by":"theme","hsl":{"h":0,"s":0,"l":0},"rgb":{"r":0,"g":0,"b":0},"opacity":25},"background":{"show":false,"type":"image","opacity":100,"image":{"url":""},"video":{"url":""}},"border":1,"shape":{"wide":false,"tall":false},"timestamp":1675753943315}]}]}
+{
+  "nightTab": true,
+  "version": "7.3.0",
+  "state": {
+    "layout": {
+      "area": {
+        "header": {
+          "width": 50,
+          "justify": "left"
+        },
+        "bookmark": {
+          "width": 78,
+          "justify": "left"
+        }
+      },
+      "alignment": "center-left",
+      "order": "bookmark-header",
+      "direction": "horizontal",
+      "size": 100,
+      "width": 98,
+      "padding": 55,
+      "gutter": 50,
+      "breakpoint": "lg",
+      "scrollbar": "none",
+      "title": "Wellashi's Homepage",
+      "favicon": "",
+      "overscroll": false
+    },
+    "header": {
+      "item": {
+        "justify": "right"
+      },
+      "greeting": {
+        "show": true,
+        "type": "good",
+        "custom": "",
+        "name": "Enku",
+        "size": 107,
+        "newLine": false
+      },
+      "transitional": {
+        "show": false,
+        "type": "time-and-date",
+        "size": 100,
+        "newLine": false
+      },
+      "clock": {
+        "hour": {
+          "show": true,
+          "display": "number"
+        },
+        "minute": {
+          "show": true,
+          "display": "number"
+        },
+        "second": {
+          "show": false,
+          "display": "number"
+        },
+        "separator": {
+          "show": true,
+          "text": ""
+        },
+        "meridiem": {
+          "show": true
+        },
+        "hour24": {
+          "show": false
+        },
+        "size": 126,
+        "newLine": true
+      },
+      "date": {
+        "day": {
+          "show": true,
+          "display": "word",
+          "weekStart": "monday",
+          "length": "short"
+        },
+        "date": {
+          "show": true,
+          "display": "number",
+          "ordinal": true
+        },
+        "month": {
+          "show": true,
+          "display": "word",
+          "length": "short",
+          "ordinal": false
+        },
+        "year": {
+          "show": false,
+          "display": "number"
+        },
+        "separator": {
+          "show": true,
+          "text": "*"
+        },
+        "format": "month-date",
+        "size": 100,
+        "newLine": false
+      },
+      "search": {
+        "show": true,
+        "width": {
+          "by": "custom",
+          "size": 100
+        },
+        "engine": {
+          "selected": "google",
+          "custom": {
+            "name": "",
+            "url": "",
+            "queryName": ""
+          }
+        },
+        "text": {
+          "justify": "right"
+        },
+        "size": 71,
+        "newLine": false,
+        "newTab": false,
+        "string": ""
+      },
+      "order": [
+        "greeting",
+        "clock",
+        "date",
+        "search"
+      ],
+      "edit": false
+    },
+    "bookmark": {
+      "size": 50,
+      "url": {
+        "show": false
+      },
+      "line": {
+        "show": false
+      },
+      "shadow": {
+        "show": false
+      },
+      "hoverScale": {
+        "show": false
+      },
+      "orientation": "top",
+      "style": "block",
+      "newTab": false,
+      "edit": false,
+      "add": false,
+      "show": true,
+      "item": {}
+    },
+    "group": {
+      "area": {
+        "justify": "left"
+      },
+      "order": "header-body",
+      "name": {
+        "size": 75
+      },
+      "toolbar": {
+        "size": 50
+      },
+      "edit": false,
+      "add": false
+    },
+    "toolbar": {
+      "location": "corner",
+      "position": "top-right",
+      "size": 50,
+      "accent": {
+        "show": true
+      },
+      "add": {
+        "show": true
+      },
+      "edit": {
+        "show": true
+      },
+      "newLine": false
+    },
+    "theme": {
+      "color": {
+        "range": {
+          "primary": {
+            "h": 243,
+            "s": 0
+          }
+        },
+        "contrast": {
+          "start": 12,
+          "end": 30
+        },
+        "shades": 14
+      },
+      "accent": {
+        "hsl": {
+          "h": 267,
+          "s": 100,
+          "l": 80
+        },
+        "rgb": {
+          "r": 199,
+          "g": 153,
+          "b": 255
+        },
+        "random": {
+          "active": false,
+          "style": "any"
+        },
+        "cycle": {
+          "active": false,
+          "speed": 300,
+          "step": 10
+        }
+      },
+      "font": {
+        "display": {
+          "name": "Shadows Into Light",
+          "weight": 100,
+          "style": "normal"
+        },
+        "ui": {
+          "name": "Poppins",
+          "weight": 400,
+          "style": "normal"
+        }
+      },
+      "background": {
+        "type": "image",
+        "color": {
+          "hsl": {
+            "h": 221,
+            "s": 47,
+            "l": 17
+          },
+          "rgb": {
+            "r": 23,
+            "g": 36,
+            "b": 64
+          }
+        },
+        "gradient": {
+          "angle": 160,
+          "start": {
+            "hsl": {
+              "h": 148,
+              "s": 95,
+              "l": 60
+            },
+            "rgb": {
+              "r": 56,
+              "g": 250,
+              "b": 147
+            }
+          },
+          "end": {
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 41
+            },
+            "rgb": {
+              "r": 105,
+              "g": 105,
+              "b": 105
+            }
+          }
+        },
+        "image": {
+          "url": "https://www.pexels.com/photo/landscape-photography-of-lake-1718345/",
+          "blur": 0,
+          "grayscale": 0,
+          "scale": 100,
+          "accent": 0,
+          "opacity": 100,
+          "vignette": {
+            "opacity": 0,
+            "start": 90,
+            "end": 70
+          }
+        },
+        "video": {
+          "url": "",
+          "blur": 0,
+          "grayscale": 0,
+          "scale": 100,
+          "accent": 0,
+          "opacity": 100,
+          "vignette": {
+            "opacity": 0,
+            "start": 90,
+            "end": 70
+          }
+        }
+      },
+      "opacity": {
+        "general": 25
+      },
+      "layout": {
+        "color": {
+          "by": "theme",
+          "blur": 0,
+          "opacity": 10,
+          "hsl": {
+            "h": 0,
+            "s": 0,
+            "l": 0
+          },
+          "rgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        "divider": {
+          "size": 0
+        }
+      },
+      "header": {
+        "color": {
+          "by": "theme",
+          "opacity": 10,
+          "hsl": {
+            "h": 0,
+            "s": 0,
+            "l": 0
+          },
+          "rgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        "search": {
+          "opacity": 25
+        }
+      },
+      "bookmark": {
+        "color": {
+          "by": "theme",
+          "opacity": 10,
+          "hsl": {
+            "h": 0,
+            "s": 0,
+            "l": 0
+          },
+          "rgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        "item": {
+          "border": 1,
+          "opacity": 25
+        }
+      },
+      "group": {
+        "toolbar": {
+          "opacity": 25
+        }
+      },
+      "toolbar": {
+        "opacity": 25
+      },
+      "style": "dark",
+      "radius": 242,
+      "shadow": 0,
+      "shade": {
+        "opacity": 3,
+        "blur": 0
+      },
+      "custom": {
+        "all": [
+          {
+            "name": "Enku's",
+            "color": {
+              "range": {
+                "primary": {
+                  "h": 243,
+                  "s": 26,
+                  "l": 17
+                }
+              },
+              "contrast": {
+                "start": 15,
+                "end": 50
+              }
+            },
+            "accent": {
+              "hsl": {
+                "h": 267,
+                "s": 100,
+                "l": 80
+              },
+              "rgb": {
+                "r": 199,
+                "g": 153,
+                "b": 255
+              }
+            },
+            "font": {
+              "display": {
+                "name": "Shadows Into Light",
+                "weight": 100,
+                "style": "normal"
+              },
+              "ui": {
+                "name": "Poppins",
+                "weight": 400,
+                "style": "normal"
+              }
+            },
+            "background": {
+              "type": "image",
+              "color": {
+                "hsl": {
+                  "h": 221,
+                  "s": 47,
+                  "l": 17
+                },
+                "rgb": {
+                  "r": 23,
+                  "g": 36,
+                  "b": 64
+                }
+              },
+              "gradient": {
+                "angle": 160,
+                "start": {
+                  "hsl": {
+                    "h": 206,
+                    "s": 16,
+                    "l": 40
+                  },
+                  "rgb": {
+                    "r": 86,
+                    "g": 104,
+                    "b": 118
+                  }
+                },
+                "end": {
+                  "hsl": {
+                    "h": 219,
+                    "s": 28,
+                    "l": 12
+                  },
+                  "rgb": {
+                    "r": 22,
+                    "g": 28,
+                    "b": 39
+                  }
+                }
+              },
+              "image": {
+                "url": "https://github.com/zombieFox/nightTabAssets/blob/main/images/1628356492462.jpeg?raw=true",
+                "blur": 9,
+                "grayscale": 0,
+                "scale": 100,
+                "accent": 0,
+                "opacity": 5,
+                "vignette": {
+                  "opacity": 0,
+                  "start": 90,
+                  "end": 70
+                }
+              },
+              "video": {
+                "url": "",
+                "blur": 0,
+                "grayscale": 0,
+                "scale": 100,
+                "accent": 0,
+                "opacity": 100,
+                "vignette": {
+                  "opacity": 0,
+                  "start": 90,
+                  "end": 70
+                }
+              }
+            },
+            "radius": 242,
+            "shadow": 0,
+            "style": "dark",
+            "shade": {
+              "opacity": 3,
+              "blur": 0
+            },
+            "opacity": {
+              "general": 34
+            },
+            "layout": {
+              "color": {
+                "by": "theme",
+                "blur": 0,
+                "opacity": 10,
+                "hsl": {
+                  "h": 0,
+                  "s": 0,
+                  "l": 0
+                },
+                "rgb": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                }
+              },
+              "divider": {
+                "size": 0
+              }
+            },
+            "header": {
+              "color": {
+                "by": "theme",
+                "opacity": 10,
+                "hsl": {
+                  "h": 0,
+                  "s": 0,
+                  "l": 0
+                },
+                "rgb": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                }
+              },
+              "search": {
+                "opacity": 34
+              }
+            },
+            "bookmark": {
+              "color": {
+                "by": "theme",
+                "opacity": 10,
+                "hsl": {
+                  "h": 0,
+                  "s": 0,
+                  "l": 0
+                },
+                "rgb": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                }
+              },
+              "item": {
+                "border": 1,
+                "opacity": 34
+              }
+            },
+            "group": {
+              "toolbar": {
+                "opacity": 34
+              }
+            },
+            "toolbar": {
+              "opacity": 34
+            }
+          },
+          {
+            "name": "Enku's",
+            "color": {
+              "range": {
+                "primary": {
+                  "h": 243,
+                  "s": 26,
+                  "l": 17
+                }
+              },
+              "contrast": {
+                "start": 15,
+                "end": 50
+              }
+            },
+            "accent": {
+              "hsl": {
+                "h": 267,
+                "s": 100,
+                "l": 80
+              },
+              "rgb": {
+                "r": 199,
+                "g": 153,
+                "b": 255
+              }
+            },
+            "font": {
+              "display": {
+                "name": "Shadows Into Light",
+                "weight": 100,
+                "style": "normal"
+              },
+              "ui": {
+                "name": "Poppins",
+                "weight": 400,
+                "style": "normal"
+              }
+            },
+            "background": {
+              "type": "image",
+              "color": {
+                "hsl": {
+                  "h": 221,
+                  "s": 47,
+                  "l": 17
+                },
+                "rgb": {
+                  "r": 23,
+                  "g": 36,
+                  "b": 64
+                }
+              },
+              "gradient": {
+                "angle": 160,
+                "start": {
+                  "hsl": {
+                    "h": 206,
+                    "s": 16,
+                    "l": 40
+                  },
+                  "rgb": {
+                    "r": 86,
+                    "g": 104,
+                    "b": 118
+                  }
+                },
+                "end": {
+                  "hsl": {
+                    "h": 219,
+                    "s": 28,
+                    "l": 12
+                  },
+                  "rgb": {
+                    "r": 22,
+                    "g": 28,
+                    "b": 39
+                  }
+                }
+              },
+              "image": {
+                "url": "https://github.com/zombieFox/nightTabAssets/blob/main/images/1628356492462.jpeg?raw=true",
+                "blur": 9,
+                "grayscale": 0,
+                "scale": 100,
+                "accent": 0,
+                "opacity": 5,
+                "vignette": {
+                  "opacity": 0,
+                  "start": 90,
+                  "end": 70
+                }
+              },
+              "video": {
+                "url": "",
+                "blur": 0,
+                "grayscale": 0,
+                "scale": 100,
+                "accent": 0,
+                "opacity": 100,
+                "vignette": {
+                  "opacity": 0,
+                  "start": 90,
+                  "end": 70
+                }
+              }
+            },
+            "radius": 242,
+            "shadow": 0,
+            "style": "dark",
+            "shade": {
+              "opacity": 3,
+              "blur": 0
+            },
+            "opacity": {
+              "general": 34
+            },
+            "layout": {
+              "color": {
+                "by": "theme",
+                "blur": 0,
+                "opacity": 10,
+                "hsl": {
+                  "h": 0,
+                  "s": 0,
+                  "l": 0
+                },
+                "rgb": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                }
+              },
+              "divider": {
+                "size": 0
+              }
+            },
+            "header": {
+              "color": {
+                "by": "theme",
+                "opacity": 10,
+                "hsl": {
+                  "h": 0,
+                  "s": 0,
+                  "l": 0
+                },
+                "rgb": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                }
+              },
+              "search": {
+                "opacity": 34
+              }
+            },
+            "bookmark": {
+              "color": {
+                "by": "theme",
+                "opacity": 10,
+                "hsl": {
+                  "h": 0,
+                  "s": 0,
+                  "l": 0
+                },
+                "rgb": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                }
+              },
+              "item": {
+                "border": 1,
+                "opacity": 34
+              }
+            },
+            "group": {
+              "toolbar": {
+                "opacity": 34
+              }
+            },
+            "toolbar": {
+              "opacity": 34
+            }
+          }
+        ],
+        "edit": false
+      }
+    },
+    "search": false,
+    "modal": false,
+    "menu": true
+  },
+  "bookmark": [
+    {
+      "name": {
+        "text": "Tools",
+        "show": true
+      },
+      "collapse": false,
+      "toolbar": {
+        "openAll": {
+          "show": false
+        },
+        "collapse": {
+          "show": true
+        }
+      },
+      "items": [
+        {
+          "url": "https://www.figma.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": -20,
+            "translate": {
+              "x": -6,
+              "y": 0
+            },
+            "gutter": 39,
+            "name": {
+              "show": true,
+              "text": "Figma",
+              "size": 26
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 122,
+              "letter": {
+                "text": "AZ"
+              },
+              "icon": {
+                "name": "figma",
+                "prefix": "fab",
+                "label": "Figma"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 132,
+              "s": 69,
+              "l": 73
+            },
+            "rgb": {
+              "r": 139,
+              "g": 234,
+              "b": 158
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 100
+            },
+            "rgb": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": true
+          },
+          "timestamp": 1626297999213
+        },
+        {
+          "url": "https://studio.polotno.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": -90,
+            "translate": {
+              "x": 21,
+              "y": 2
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Polotno",
+              "size": 23
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 20,
+              "letter": {
+                "text": "GM"
+              },
+              "icon": {
+                "name": "layer-group",
+                "prefix": "fas",
+                "label": "Layer Group"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 299,
+              "s": 100,
+              "l": 80
+            },
+            "rgb": {
+              "r": 253,
+              "g": 153,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1626298011293
+        },
+        {
+          "url": "https://www.canva.com/",
+          "display": {
+            "alignment": "top-left",
+            "direction": "horizontal",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 11,
+              "y": 21
+            },
+            "gutter": 55,
+            "name": {
+              "show": true,
+              "text": "Canva",
+              "size": 40
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 55,
+              "letter": {
+                "text": "C"
+              },
+              "icon": {
+                "name": "google-drive",
+                "prefix": "fab",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 225,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 0,
+              "g": 64,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": true,
+            "tall": false
+          },
+          "timestamp": 1626298028996
+        },
+        {
+          "url": "https://penpot.app/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": -62,
+            "translate": {
+              "x": -6,
+              "y": -4
+            },
+            "gutter": 51,
+            "name": {
+              "show": true,
+              "text": "Penpot",
+              "size": 19
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 36,
+              "letter": {
+                "text": "AS"
+              },
+              "icon": {
+                "name": "pencil-alt",
+                "prefix": "fas",
+                "label": "Alternate Pencil"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 81,
+              "s": 100,
+              "l": 68
+            },
+            "rgb": {
+              "r": 198,
+              "g": 255,
+              "b": 92
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1626297988913
+        },
+        {
+          "url": "https://webcode.tools/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Web code tools",
+              "size": 33
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 52,
+              "letter": {
+                "text": "R"
+              },
+              "icon": {
+                "name": "toolbox",
+                "prefix": "fas",
+                "label": "Toolbox"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 195,
+              "s": 100,
+              "l": 85
+            },
+            "rgb": {
+              "r": 179,
+              "g": 236,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": true,
+            "tall": true
+          },
+          "timestamp": 1626298017175
+        },
+        {
+          "url": "https://typescale.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Type-scale",
+              "size": 15
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 52,
+              "letter": {
+                "text": "N"
+              },
+              "icon": {
+                "name": "i-cursor",
+                "prefix": "fas",
+                "label": "I Beam Cursor"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 180,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 0,
+              "g": 255,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1626298022303
+        },
+        {
+          "url": "https://coolors.co/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Coolors",
+              "size": 26
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 61,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "palette",
+                "prefix": "fas",
+                "label": "Palette"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 113,
+              "s": 100,
+              "l": 65
+            },
+            "rgb": {
+              "r": 97,
+              "g": 255,
+              "b": 77
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675747208625
+        },
+        {
+          "url": "https://picular.co/",
+          "display": {
+            "alignment": "center-left",
+            "direction": "horizontal",
+            "order": "name-visual",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 0,
+            "name": {
+              "show": true,
+              "text": "Picular",
+              "size": 16
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 77,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "eye-dropper",
+                "prefix": "fas",
+                "label": "Eye Dropper"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 55,
+              "s": 100,
+              "l": 76
+            },
+            "rgb": {
+              "r": 255,
+              "g": 245,
+              "b": 133
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675747643701
+        },
+        {
+          "url": "https://pixlr.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": -47,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 0,
+            "name": {
+              "show": true,
+              "text": "Pixlr",
+              "size": 50
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 33,
+              "letter": {
+                "text": "ph"
+              },
+              "icon": {
+                "name": "file-image",
+                "prefix": "fas",
+                "label": "Image File"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 334,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 255,
+              "g": 0,
+              "b": 111
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675747977311
+        },
+        {
+          "url": "https://www.photopea.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 90,
+            "translate": {
+              "x": -8,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Photopea",
+              "size": 19
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 52,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "american-sign-language-interpreting",
+                "prefix": "fas",
+                "label": "American Sign Language Interpreting"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 21,
+              "s": 100,
+              "l": 78
+            },
+            "rgb": {
+              "r": 255,
+              "g": 182,
+              "b": 143
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675748122799
+        },
+        {
+          "url": "https://www.youtube.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "name-visual",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 13
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Youtube",
+              "size": 23
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 79,
+              "letter": {
+                "text": "TBAL"
+              },
+              "icon": {
+                "name": "youtube",
+                "prefix": "fab",
+                "label": "YouTube"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 100,
+              "l": 57
+            },
+            "rgb": {
+              "r": 255,
+              "g": 36,
+              "b": 36
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675753288282
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Design",
+        "show": true
+      },
+      "collapse": false,
+      "toolbar": {
+        "size": 100,
+        "openAll": {
+          "show": false
+        },
+        "collapse": {
+          "show": true
+        }
+      },
+      "items": [
+        {
+          "url": "https://iconmonstr.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Iconsmonstr",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "icons",
+                "prefix": "fas",
+                "label": "Icons"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 50,
+              "s": 100,
+              "l": 38
+            },
+            "rgb": {
+              "r": 194,
+              "g": 162,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675749085862
+        },
+        {
+          "url": "https://www.svgrepo.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 0,
+            "name": {
+              "show": true,
+              "text": "SvgRepo",
+              "size": 11
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 77,
+              "letter": {
+                "text": "SVG"
+              },
+              "icon": {
+                "name": "",
+                "prefix": "",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 38,
+              "s": 100,
+              "l": 46
+            },
+            "rgb": {
+              "r": 235,
+              "g": 149,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675749223815
+        },
+        {
+          "url": "https://blush.design/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "name-visual",
+            "rotate": -42,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Blush.Design",
+              "size": 16
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 29,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "bezier-curve",
+                "prefix": "fas",
+                "label": "Bezier Curve"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 157,
+              "s": 31,
+              "l": 60
+            },
+            "rgb": {
+              "r": 121,
+              "g": 185,
+              "b": 160
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675749415069
+        },
+        {
+          "url": "https://undraw.co/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 55,
+            "translate": {
+              "x": 0,
+              "y": -8
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Undraw",
+              "size": 30
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 13,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "user",
+                "prefix": "fas",
+                "label": "User"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 287,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 200,
+              "g": 0,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675749521682
+        },
+        {
+          "url": "https://www.toools.design/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 22,
+            "translate": {
+              "x": -27,
+              "y": 32
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 72,
+              "letter": {
+                "text": "Toooools"
+              },
+              "icon": {
+                "name": "",
+                "prefix": "",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 53
+            },
+            "rgb": {
+              "r": 135,
+              "g": 135,
+              "b": 135
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": true,
+            "type": "image",
+            "opacity": 61,
+            "image": {
+              "url": "https://images.unsplash.com/photo-1632408542856-8858f67e63f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": true,
+            "tall": true
+          },
+          "timestamp": 1675751291507
+        },
+        {
+          "url": "https://pixabay.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 22,
+            "translate": {
+              "x": 4,
+              "y": -6
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Pixabay",
+              "size": 27
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 54,
+              "letter": {
+                "text": "PX"
+              },
+              "icon": {
+                "name": "",
+                "prefix": "",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 76,
+              "s": 100,
+              "l": 55
+            },
+            "rgb": {
+              "r": 194,
+              "g": 255,
+              "b": 26
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675750014670
+        },
+        {
+          "url": "https://unsplash.com/",
+          "display": {
+            "alignment": "bottom-right",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Unsplash",
+              "size": 13
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 76,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "image",
+                "prefix": "fas",
+                "label": "Image"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 299,
+              "s": 81,
+              "l": 46
+            },
+            "rgb": {
+              "r": 209,
+              "g": 22,
+              "b": 212
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675749925824
+        },
+        {
+          "url": "https://useanimations.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Useanimations",
+              "size": 13
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 51,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "heartbeat",
+                "prefix": "fas",
+                "label": "Heartbeat"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 100,
+              "l": 68
+            },
+            "rgb": {
+              "r": 255,
+              "g": 92,
+              "b": 92
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": true,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675750150594
+        },
+        {
+          "url": "https://www.checklist.design/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Design Checklist",
+              "size": 23
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 54,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "check",
+                "prefix": "fas",
+                "label": "Check"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 255,
+              "g": 0,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": true,
+            "tall": false
+          },
+          "timestamp": 1675749023449
+        },
+        {
+          "url": "https://www.scribbbles.design/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 56,
+            "translate": {
+              "x": 0,
+              "y": -13
+            },
+            "gutter": 63,
+            "name": {
+              "show": true,
+              "text": "scribbbles",
+              "size": 11
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 58,
+              "letter": {
+                "text": "Scribbbles"
+              },
+              "icon": {
+                "name": "scribd",
+                "prefix": "fab",
+                "label": "Scribd"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 192,
+              "s": 100,
+              "l": 35
+            },
+            "rgb": {
+              "r": 0,
+              "g": 143,
+              "b": 179
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675749681386
+        },
+        {
+          "url": "https://www.drawkit.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Drawkit",
+              "size": 20
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 47,
+              "letter": {
+                "text": "D"
+              },
+              "icon": {
+                "name": "drafting-compass",
+                "prefix": "fas",
+                "label": "Drafting Compass"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 170,
+              "s": 83,
+              "l": 62
+            },
+            "rgb": {
+              "r": 78,
+              "g": 239,
+              "b": 212
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675750326132
+        },
+        {
+          "url": "https://avamake.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": -8
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Avamake",
+              "size": 13
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 81,
+              "letter": {
+                "text": "Avaaaaaatars"
+              },
+              "icon": {
+                "name": "user-astronaut",
+                "prefix": "fas",
+                "label": "User Astronaut"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 93,
+              "s": 81,
+              "l": 44
+            },
+            "rgb": {
+              "r": 103,
+              "g": 203,
+              "b": 21
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675751701506
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "AI fun",
+        "show": true
+      },
+      "collapse": false,
+      "toolbar": {
+        "openAll": {
+          "show": false
+        },
+        "collapse": {
+          "show": true
+        }
+      },
+      "items": [
+        {
+          "url": "https://chat.openai.com/chat",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": -15,
+              "y": -13
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "ChatGPT",
+              "size": 18
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 79,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "robot",
+                "prefix": "fas",
+                "label": "Robot"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 95,
+              "l": 84
+            },
+            "rgb": {
+              "r": 253,
+              "g": 175,
+              "b": 175
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1676085807051
+        },
+        {
+          "url": "https://www.futuretools.io/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Future-tools",
+              "size": 18
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 55,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "spa",
+                "prefix": "fas",
+                "label": "Spa"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 135,
+              "s": 59,
+              "l": 57
+            },
+            "rgb": {
+              "r": 81,
+              "g": 210,
+              "b": 113
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": true,
+            "tall": false
+          },
+          "timestamp": 1676092710270
+        },
+        {
+          "url": "https://instantart.io/",
+          "display": {
+            "alignment": "center-right",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Instant art",
+              "size": 15
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 59,
+              "letter": {
+                "text": "DEV"
+              },
+              "icon": {
+                "name": "artstation",
+                "prefix": "fab",
+                "label": "Artstation"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 325,
+              "s": 58,
+              "l": 66
+            },
+            "rgb": {
+              "r": 219,
+              "g": 118,
+              "b": 177
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1626298034209
+        },
+        {
+          "url": "https://playgroundai.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": -14,
+            "translate": {
+              "x": -27,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Playground",
+              "size": 9
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 73,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "images",
+                "prefix": "fas",
+                "label": "Images"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 55,
+              "s": 100,
+              "l": 85
+            },
+            "rgb": {
+              "r": 255,
+              "g": 249,
+              "b": 179
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1676093933855
+        },
+        {
+          "url": "https://dreamlike.art/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "name-visual",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": -13
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Dreamlike",
+              "size": 45
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 30,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "cloud",
+                "prefix": "fas",
+                "label": "Cloud"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 200,
+              "s": 100,
+              "l": 74
+            },
+            "rgb": {
+              "r": 122,
+              "g": 211,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": true,
+            "tall": false
+          },
+          "timestamp": 1676085948509
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Entertainment",
+        "show": true
+      },
+      "collapse": false,
+      "toolbar": {
+        "size": 100,
+        "openAll": {
+          "show": false
+        },
+        "collapse": {
+          "show": true
+        }
+      },
+      "items": [
+        {
+          "url": "https://flixhq.to/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 25,
+              "letter": {
+                "text": "Flixhq.to"
+              },
+              "icon": {
+                "name": "",
+                "prefix": "",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675752164817
+        },
+        {
+          "url": "https://flixhq.ru/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 25,
+              "letter": {
+                "text": "Flixhq.ru"
+              },
+              "icon": {
+                "name": "",
+                "prefix": "",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675752230446
+        },
+        {
+          "url": "https://ww4.fmovies.co/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 25,
+              "letter": {
+                "text": "Fmovies"
+              },
+              "icon": {
+                "name": "",
+                "prefix": "",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675752327953
+        },
+        {
+          "url": "https://1337x.to/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 25,
+              "letter": {
+                "text": "1337x"
+              },
+              "icon": {
+                "name": "",
+                "prefix": "",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675752436308
+        },
+        {
+          "url": "https://www.tpbproxypirate.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "letter",
+              "size": 25,
+              "letter": {
+                "text": "Piratebay"
+              },
+              "icon": {
+                "name": "",
+                "prefix": "",
+                "label": ""
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675752550064
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Learn",
+        "show": true
+      },
+      "collapse": false,
+      "toolbar": {
+        "size": 100,
+        "openAll": {
+          "show": false
+        },
+        "collapse": {
+          "show": true
+        }
+      },
+      "items": [
+        {
+          "url": "https://principles.design/",
+          "display": {
+            "alignment": "center-left",
+            "direction": "horizontal",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": -31,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Design Principles",
+              "size": 12
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 134,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "tape",
+                "prefix": "fas",
+                "label": "Tape"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 52,
+              "s": 100,
+              "l": 65
+            },
+            "rgb": {
+              "r": 255,
+              "g": 231,
+              "b": 77
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": true,
+            "tall": false
+          },
+          "timestamp": 1675749822309
+        },
+        {
+          "url": "https://www.pdfdrive.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 15,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "PDF Drive",
+              "size": 18
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 54,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "file-pdf",
+                "prefix": "fas",
+                "label": "PDF File"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 100,
+              "l": 58
+            },
+            "rgb": {
+              "r": 255,
+              "g": 41,
+              "b": 41
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1676092585549
+        },
+        {
+          "url": "https://www.coursedl.org/",
+          "display": {
+            "alignment": "center-right",
+            "direction": "horizontal",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 4,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "OpenDirectory",
+              "size": 20
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 76,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "studiovinari",
+                "prefix": "fab",
+                "label": "Studio Vinari"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 27,
+              "s": 38,
+              "l": 53
+            },
+            "rgb": {
+              "r": 181,
+              "g": 131,
+              "b": 90
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 100
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": true,
+            "tall": false
+          },
+          "timestamp": 1678333544302
+        },
+        {
+          "url": "https://www.udemy.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": -91,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 0,
+            "name": {
+              "show": true,
+              "text": "Udemy",
+              "size": 26
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 83,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "user-graduate",
+                "prefix": "fas",
+                "label": "User Graduate"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 228,
+              "s": 100,
+              "l": 82
+            },
+            "rgb": {
+              "r": 163,
+              "g": 182,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1676093040956
+        },
+        {
+          "url": "https://www.skillshare.com/en/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 28,
+            "translate": {
+              "x": 0,
+              "y": -8
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Skillshare",
+              "size": 19
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 41,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "chalkboard-teacher",
+                "prefix": "fas",
+                "label": "Chalkboard Teacher"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 149,
+              "s": 100,
+              "l": 67
+            },
+            "rgb": {
+              "r": 87,
+              "g": 255,
+              "b": 168
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1676093233920
+        }
+      ]
+    },
+    {
+      "name": {
+        "text": "Social",
+        "show": true
+      },
+      "collapse": false,
+      "toolbar": {
+        "size": 100,
+        "openAll": {
+          "show": false
+        },
+        "collapse": {
+          "show": true
+        }
+      },
+      "items": [
+        {
+          "url": "https://web.telegram.org/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Telegram",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "telegram",
+                "prefix": "fab",
+                "label": "Telegram"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 203,
+              "s": 100,
+              "l": 65
+            },
+            "rgb": {
+              "r": 77,
+              "g": 187,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675754054528
+        },
+        {
+          "url": "https://github.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Github",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": "GIT"
+              },
+              "icon": {
+                "name": "github",
+                "prefix": "fab",
+                "label": "GitHub"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 100
+            },
+            "rgb": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1626298038470
+        },
+        {
+          "url": "https://www.quora.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Quora",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "quora",
+                "prefix": "fab",
+                "label": "Quora"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 255,
+              "g": 0,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675753697443
+        },
+        {
+          "url": "https://stackoverflow.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Stackoverflow",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "stack-overflow",
+                "prefix": "fab",
+                "label": "Stack Overflow"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 41,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 255,
+              "g": 174,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675753835533
+        },
+        {
+          "url": "https://www.reddit.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Reddit",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "reddit-alien",
+                "prefix": "fab",
+                "label": "reddit Alien"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 24,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 255,
+              "g": 102,
+              "b": 0
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675753650122
+        },
+        {
+          "url": "https://www.pinterest.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Pinterest",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "pinterest",
+                "prefix": "fab",
+                "label": "Pinterest"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 0,
+              "s": 100,
+              "l": 53
+            },
+            "rgb": {
+              "r": 255,
+              "g": 15,
+              "b": 15
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675753762636
+        },
+        {
+          "url": "facebook.com",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Facebook",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "facebook",
+                "prefix": "fab",
+                "label": "Facebook"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 209,
+              "s": 100,
+              "l": 51
+            },
+            "rgb": {
+              "r": 5,
+              "g": 134,
+              "b": 255
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675753886034
+        },
+        {
+          "url": "https://web.whatsapp.com/",
+          "display": {
+            "alignment": "center-center",
+            "direction": "vertical",
+            "order": "visual-name",
+            "rotate": 0,
+            "translate": {
+              "x": 0,
+              "y": 0
+            },
+            "gutter": 25,
+            "name": {
+              "show": true,
+              "text": "Whatsapp",
+              "size": 7
+            },
+            "visual": {
+              "show": true,
+              "type": "icon",
+              "size": 25,
+              "letter": {
+                "text": ""
+              },
+              "icon": {
+                "name": "whatsapp",
+                "prefix": "fab",
+                "label": "What's App"
+              },
+              "image": {
+                "url": ""
+              },
+              "shadow": {
+                "size": 0
+              }
+            }
+          },
+          "accent": {
+            "by": "custom",
+            "hsl": {
+              "h": 143,
+              "s": 100,
+              "l": 50
+            },
+            "rgb": {
+              "r": 0,
+              "g": 255,
+              "b": 98
+            }
+          },
+          "color": {
+            "by": "theme",
+            "hsl": {
+              "h": 0,
+              "s": 0,
+              "l": 0
+            },
+            "rgb": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "opacity": 25
+          },
+          "background": {
+            "show": false,
+            "type": "image",
+            "opacity": 100,
+            "image": {
+              "url": ""
+            },
+            "video": {
+              "url": ""
+            }
+          },
+          "border": 1,
+          "shape": {
+            "wide": false,
+            "tall": false
+          },
+          "timestamp": 1675753943315
+        }
+      ]
+    }
+  ]
+}
